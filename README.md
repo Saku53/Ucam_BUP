@@ -337,6 +337,4 @@ Please avoid committing `.env` files, generated dependencies, build output, or p
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
-
-This project is marked as **ISC** in its package manifests. Add a root-level `LICENSE` file before distributing the project publicly.
+Required Notice: Copyright (c) 2026 Md. Nazmus Sakib Siam (https://github.com/Saku53)
