@@ -1,0 +1,28 @@
+
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+server/.env
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
